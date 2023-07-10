@@ -1,0 +1,17 @@
+2023-07-05 15:27:57,365 INFO [root] [__init__.py(<module>:5)] - info
+2023-07-05 15:27:57,365 ERROR [root] [__init__.py(<module>:6)] - error
+2023-07-05 15:27:58,291 INFO [root] [login.py(test05_get_sms_code_success:73)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-05 15:27:59,036 INFO [root] [login.py(test10_register_success_param_must:157)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-05 15:27:59,079 INFO [root] [login.py(test10_register_success_param_must:166)] - get sms code response = {'status': 100, 'description': '验证码错误'}
+2023-07-05 15:27:59,219 INFO [root] [login.py(test11_register_success_param_all:184)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-05 15:27:59,266 INFO [root] [login.py(test11_register_success_param_all:192)] - get sms code response = {'status': 100, 'description': '验证码错误'}
+2023-07-05 15:27:59,407 INFO [root] [login.py(test12_register_phone_is_exist:210)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-05 15:27:59,443 INFO [root] [login.py(test12_register_phone_is_exist:219)] - get sms code response = {'status': 100, 'description': '验证码错误'}
+2023-07-05 15:27:59,582 INFO [root] [login.py(test13_register_password_is_null:237)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-05 15:27:59,625 INFO [root] [login.py(test13_register_password_is_null:246)] - get sms code response = {'status': 100, 'description': '验证码错误'}
+2023-07-05 15:27:59,764 INFO [root] [login.py(test14_register_img_code_is_wrong:264)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-05 15:27:59,800 INFO [root] [login.py(test14_register_img_code_is_wrong:273)] - get sms code response = {'status': 100, 'description': '验证码错误'}
+2023-07-05 15:27:59,947 INFO [root] [login.py(test15_register_phone_is_exist:291)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-05 15:27:59,997 INFO [root] [login.py(test15_register_phone_is_exist:300)] - get sms code response = {'status': 100, 'description': '验证码错误'}
+2023-07-05 15:28:00,134 INFO [root] [login.py(test16_register_noagree_protocal:318)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-05 15:28:00,178 INFO [root] [login.py(test16_register_noagree_protocal:327)] - get sms code response = {'status': 100, 'description': '验证码错误'}

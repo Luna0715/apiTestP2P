@@ -1,0 +1,4 @@
+2023-07-05 15:43:06,226 INFO [root] [__init__.py(<module>:5)] - info
+2023-07-05 15:43:06,227 ERROR [root] [__init__.py(<module>:6)] - error
+2023-07-05 15:43:06,569 INFO [root] [login.py(test15_register_phone_is_exist:288)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-05 15:43:06,610 INFO [root] [login.py(test15_register_phone_is_exist:297)] - get sms code response = {'status': 100, 'description': '验证码错误'}

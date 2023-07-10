@@ -1,0 +1,4 @@
+2023-07-05 15:37:47,766 INFO [root] [__init__.py(<module>:5)] - info
+2023-07-05 15:37:47,766 ERROR [root] [__init__.py(<module>:6)] - error
+2023-07-05 15:37:48,132 INFO [root] [login.py(test11_register_success_param_all:181)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-05 15:37:48,200 INFO [root] [login.py(test11_register_success_param_all:189)] - get sms code response = {'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}

@@ -1,0 +1,3 @@
+2023-07-05 15:53:48,872 INFO [root] [__init__.py(<module>:5)] - info
+2023-07-05 15:53:48,872 ERROR [root] [__init__.py(<module>:6)] - error
+2023-07-05 15:53:49,181 INFO [root] [approve.py(test03_approve_cardId_is_null:51)] - login response = {'status': 200, 'description': '登录成功'}

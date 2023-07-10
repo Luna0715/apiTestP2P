@@ -1,0 +1,17 @@
+2023-07-07 18:44:35,529 INFO [root] [__init__.py(<module>:5)] - info
+2023-07-07 18:44:35,530 ERROR [root] [__init__.py(<module>:6)] - error
+2023-07-07 18:44:37,409 INFO [root] [login_param.py(test05_get_sms_code_success:89)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-07 18:44:37,965 INFO [root] [login_param.py(test10_get_img_code:170)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-07 18:44:38,003 INFO [root] [login_param.py(test10_get_img_code:176)] - register response = {'status': 100, 'description': '手机已存在!'}
+2023-07-07 18:44:38,140 INFO [root] [login_param.py(test10_get_img_code:170)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-07 18:44:38,179 INFO [root] [login_param.py(test10_get_img_code:176)] - register response = {'status': 100, 'description': '手机已存在!'}
+2023-07-07 18:44:38,310 INFO [root] [login_param.py(test10_get_img_code:170)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-07 18:44:38,350 INFO [root] [login_param.py(test10_get_img_code:176)] - register response = {'status': 100, 'description': '手机已存在!'}
+2023-07-07 18:44:38,485 INFO [root] [login_param.py(test10_get_img_code:170)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-07 18:44:38,527 INFO [root] [login_param.py(test10_get_img_code:176)] - register response = {'status': 100, 'description': '手机已存在!'}
+2023-07-07 18:44:38,671 INFO [root] [login_param.py(test10_get_img_code:170)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-07 18:44:38,710 INFO [root] [login_param.py(test10_get_img_code:176)] - register response = {'status': 100, 'description': '验证码错误!'}
+2023-07-07 18:44:38,835 INFO [root] [login_param.py(test10_get_img_code:170)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-07 18:44:38,872 INFO [root] [login_param.py(test10_get_img_code:176)] - register response = {'status': 100, 'description': '手机已存在!'}
+2023-07-07 18:44:39,011 INFO [root] [login_param.py(test10_get_img_code:170)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2023-07-07 18:44:39,054 INFO [root] [login_param.py(test10_get_img_code:176)] - register response = {'status': 100, 'description': '手机已存在!'}
